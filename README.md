@@ -26,19 +26,7 @@ CluckVision is an AI-powered solution for monitoring poultry environments. It us
 
 ## 📁 Folder Structure
 
-```plaintext
-Chicken_Detection_Final/
-├── Chicken Count/
-│   ├── Chicken_Counting_POC.ipynb
-│   ├── best.pt
-├── Chicken SICK-ALIVE/
-│   ├── Chkn_Sick_Detect.ipynb
-│   ├── best_sick.pt
-├── Dataset/
-│   ├── Dataset for Chicken Counting.md
-│   ├── Dataset for Sick_Alive.md
-├── Training_Code.ipynb
-├── training_code.py
+
 🛠️ Setup Instructions
 Clone the repository
 
